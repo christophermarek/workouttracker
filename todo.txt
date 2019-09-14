@@ -5,7 +5,7 @@
 -DB Design
 
 -users db
-userid, email, date registered, hashed pass
+userid, email, hashed pass
 
 ->each user is linked to their own sql db
 -userid, excersize, reps, weight, date
