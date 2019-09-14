@@ -1,0 +1,6 @@
+
+Excersize ID Associations
+
+Bench - 1
+Squat - 2
+Deadlift - 3

@@ -1,4 +1,24 @@
 
+---LEFTOFF---------------
+
+--Create viewer on unified interface to display all current excersizes user has done
+
+---TODO------------------
+
+-Create Top Nav Bar
+
+-Each Excersize needs an associated id, The field to enter should be autofill,
+--User type bench and when they select it will associate.
+
+-Create homepage
+-homepage consists of 4 separate PHP files,
+--Graph view
+--List of users excersizes
+
+---COMPLETE--------------
+
+--Enter new workout
+
 -User login and registration
 -auto login
 

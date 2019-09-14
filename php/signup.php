@@ -34,6 +34,7 @@ if($username=="")	{
 			else
 			{
 				if($user->register($username, $email, $password)){	
+					echo "redirect";
 					$user->redirect('../index.php');
 				}
 			}

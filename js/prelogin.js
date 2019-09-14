@@ -1,1 +1,2 @@
-window.location.href = "views/prelogin.php";
+
+window.location.href = "../views/prelogin.php";

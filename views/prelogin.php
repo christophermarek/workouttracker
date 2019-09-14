@@ -10,7 +10,6 @@
 <head>
 
 	<title>Not logged in</title>
-	<link rel="stylesheet" type="text/css" href="../css/style.css">
 
 </head>
 
