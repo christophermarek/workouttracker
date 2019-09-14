@@ -1,14 +1,12 @@
 <?php
-class Database
-{   
-    private $host = "localhost:3308";
-    private $db_name = "workouttracker";
+class Database{   
+    private $host = "localhost:3306";
+    private $db_name = "excersizedb";
     private $username = "root";
     private $password = "";
     public $conn;
      
-    public function dbConnection()
-	{
+    public function dbConnection(){
      
 	    $this->conn = null;    
         try
