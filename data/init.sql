@@ -20,6 +20,7 @@ CREATE TABLE IF NOT EXISTS excersize (
 	user_id INT(11) NOT NULL,
 	excersize_type VARCHAR(50) NOT NULL,
 	excersize_reps VARCHAR(30) NOT NULL,
+	excersize_sets VARCHAR(30) NOT NULL,
 	excersize_weight VARCHAR(30) NOT NULL,
-	excersize_date DATETIME NOT NULL
+	excersize_date DATE NOT NULL
 );

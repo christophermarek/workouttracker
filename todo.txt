@@ -1,7 +1,7 @@
 
 ---LEFTOFF---------------
 
---Create viewer on unified interface to display all current excersizes user has done
+--Add get All User Excersizes to the model to populate the excersizeList
 
 ---TODO------------------
 

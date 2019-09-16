@@ -1,0 +1,18 @@
+input{
+ width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+body{
+	
+}
+
+div {
+	background-color: #F4D03F;
+	border: 1px solid black;
+	height: 25%;
+	width: 25%;
+	margin: 10%;
+}

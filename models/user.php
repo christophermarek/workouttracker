@@ -1,5 +1,5 @@
 <?php
-require_once('../data/config.php');
+require_once $_SERVER["DOCUMENT_ROOT"].'/data/config.php';
 class USER{	
 	private $conn;
 	
